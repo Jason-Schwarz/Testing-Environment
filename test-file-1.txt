@@ -12,3 +12,7 @@ And i am Ben
 
 this is infuriating
 
+<<<<<<< HEAD
+=======
+I am so lost
+>>>>>>> 06249e6847c880b2fc603464be2eee5c3f10a6f5
